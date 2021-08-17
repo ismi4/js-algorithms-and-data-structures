@@ -1,0 +1,14 @@
+{
+  "name": "js-algorithms-and-data-structures",
+  "version": "1.0.0",
+  "description": "Solving algorithms and data structure problems using JS. BDD with Chai.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismi4/js-algorithms-and-data-structures.git"
+  },
+  "author": "Ismail Brkic",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4"
+  }
+}
